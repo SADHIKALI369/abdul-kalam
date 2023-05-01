@@ -1,0 +1,105 @@
+#kalam {
+    background-color: #e5e5fd;
+    min-height: 250vh;
+    border: 10px solid #1d1e4c;
+}
+
+#abduimage {
+    border-radius: 50%;
+    width: 300px;
+    height: 320px;
+    position: absolute;
+    left: 180px;
+    top: 100px;
+
+
+}
+
+#apj {
+    position: absolute;
+    left: 520px;
+    top: 291px;
+    font-size: 50px;
+
+}
+
+#year {
+    position: absolute;
+    top: 348px;
+    left: 920px;
+    font-size: 30px;
+}
+
+#head {
+    position: absolute;
+    top: 428px;
+    left: 213px;
+    font-size: 60px;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 190px;
+    position: absolute;
+    top: 530px;
+    left: 165px;
+    font-size: x-large;
+    text-align: justify;
+}
+
+h4 {
+    position: absolute;
+    top: 900px;
+    left: 51px;
+    padding-left: 165px;
+}
+
+#id-1 {
+    position: absolute;
+    top: 964px;
+    left: 265px;
+}
+
+#id-2 {
+    position: absolute;
+    top: 994px;
+    left: 265px;
+}
+
+#id-3 {
+    position: absolute;
+    top: 1034px;
+    left: 265px;
+}
+#id-4{
+    position: absolute;
+    top: 1074px;
+    left: 265px;
+}
+#id-5{ position: absolute;
+    top: 1104px;
+    left: 265px;
+}
+#id-6{
+    position: absolute;
+    top: 1144px;
+    left: 265px;
+}
+#id-7{
+    position: absolute;
+    top: 1184px;
+    left: 265px;
+}
+#id-8{
+    position: absolute;
+    top: 1224px;
+    left: 265px;
+}
+
+.about {
+    position: absolute;
+    top: 1265px;
+    left: 727px;
+    font-size: small;
+
+}
